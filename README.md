@@ -6,7 +6,7 @@ Make changes and " git commit -a -m "Commit message" "
 
 Then " git push " 
 
-open https://github.com/<github username>/website 
+open https://github.com/< github username >/website 
 
 Create pull request
 
