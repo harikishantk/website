@@ -1,6 +1,6 @@
 Fork this repository 
 
-Clone locally using command prompt " git clone https://github.com/<github username>/website.git " 
+Clone locally using command prompt " git clone https://github.com/< github username >/website.git " 
   
 Make changes and " git commit -a -m "Commit message" " 
 
